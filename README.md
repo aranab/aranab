@@ -10,7 +10,7 @@ Thanks for visiting my profile. I am a Full-Stack Software Developer based in Ba
 
 ## My Resume:
 
- I would very much appreciate it if you take a look by downloading the pdf copy of my latest resume from below. 👇
+ You would find more information about me in my latest resume by downloading the pdf copy below. 👇
 
 - [Google Drive]
 - [GitHub view]
