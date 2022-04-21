@@ -13,8 +13,8 @@ Thanks for visiting my profile. I am a Full-Stack Software Developer based in Ba
  You would find more information about me in my latest resume by downloading the pdf copy below. 👇
 
 - [Google Drive](https://drive.google.com/file/d/1VDjYc34jeOZgSf1mG64ZL43YP1kffRNR/view?usp=sharing)
-- [GitHub view]
-- [GitHub download]
+- [GitHub view](https://github.com/aranab/aranab/blob/main/Resume-of-Arafat-Rahman-Rana.pdf)
+- [GitHub download](https://raw.githubusercontent.com/aranab/aranab/master/Resume-of-Arafat-Rahman-Rana.pdf)
 
 <!--
 **aranab/aranab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
