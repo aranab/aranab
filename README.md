@@ -1,5 +1,5 @@
 ### Hi there 👋
-Thanks for visiting my profile. I am a Full-Stack Software Developer based in Bangladesh. I have 9+ years of experience in software development of **.Net Core C#**, **PHP**, **Reactjs**, and **Nodejs** platforms along with **SQL** and **NoSql** database systems.
+Thanks for visiting my profile. I am a Full-Stack Software Developer based in Bangladesh. I have 10+ years of experience in software development of **.Net Ecosystem**, **JavaScript**, and **TypeScript** along with **SQL** and **NoSql** database systems.
 
 ## You can reach me by following links:
 - Email: aranab.dba@gmail.com
